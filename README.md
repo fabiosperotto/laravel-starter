@@ -69,7 +69,8 @@ A partir de agora a instalação está pronta, para rodar a aplicação, execute
 - [Documentação e Playground do Tailwind CSS](https://play.tailwindcss.com)
 
 
-
+## Contribuindo com o Projeto
+Você pode contribuir com este projeto solicitando novos recursos ou enviando modificações. Use sempre as issues anets de realizar grandes modificações. Ao enviar código, crie uma branch separada para cada funcionalidade ou correção.
 
 
 ## Licença
@@ -79,4 +80,4 @@ Este projeto é licenciado sobre a [licença MIT](https://opensource.org/license
 
 ## Agradecimentos
 
-Nada disso seria possível sem os esforços das comunidades que mantem todo o ecosistema Laravel e Filament. :blue_heart:
+Nada disso seria possível sem os esforços das comunidades que mantem todo o ecossistema Laravel e Filament. :blue_heart:
