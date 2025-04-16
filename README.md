@@ -38,6 +38,8 @@ Utilizando toda a infraestrutura do Laravel, este projeto pode ser útil para ha
 ```console
 git clone https://github.com/fabiosperotto/laravel-starter
 composer install 
+npm install
+npm run build
 ```
 
 
